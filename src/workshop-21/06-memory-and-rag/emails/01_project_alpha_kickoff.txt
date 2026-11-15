@@ -1,0 +1,18 @@
+From: priya.raman@example.com
+To: alpha-team@example.com
+Date: 2026-10-05
+Subject: Project Alpha kickoff and deadline
+
+Hi team,
+
+Thanks for joining the Project Alpha kickoff today. Here is a quick summary.
+
+Project Alpha is the new customer self-service portal. The final delivery
+deadline is December 15, 2026. The client demo is scheduled for
+December 1, 2026, so feature freeze is November 24, 2026.
+
+Weekly status meetings will be held every Monday at 10:00 AM.
+
+Regards,
+Priya Raman
+Project Manager, Project Alpha

@@ -1,0 +1,15 @@
+From: arjun.mehta@example.com
+To: priya.raman@example.com
+Date: 2026-11-12
+Subject: Re: Project Alpha frontend progress
+
+Hi Priya,
+
+The login page and dashboard UI are complete. I am now working on the
+reports screen and expect to finish it before the November 24 feature freeze.
+
+I will need the final API endpoints from Kavya by November 18.
+
+Thanks,
+Arjun Mehta
+Frontend Developer

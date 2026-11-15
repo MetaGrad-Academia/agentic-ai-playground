@@ -1,0 +1,18 @@
+From: priya.raman@example.com
+To: alpha-team@example.com
+Date: 2026-10-07
+Subject: Project Alpha team roles
+
+Hi all,
+
+Here are the confirmed roles for Project Alpha:
+
+- Frontend development: Arjun Mehta (React UI, dashboards, accessibility)
+- Backend development: Kavya Nair (APIs, database, authentication)
+- QA and testing: Rahul Iyer
+- UI/UX design: Sneha Kapoor
+
+Please reach out to the respective owner for questions in their area.
+
+Regards,
+Priya Raman
