@@ -1,0 +1,12 @@
+From: hr@example.com
+To: all-staff@example.com
+Date: 2026-10-20
+Subject: Office closed for Diwali
+
+Dear all,
+
+The office will be closed on November 9 and November 10, 2026 for Diwali.
+Please plan your work accordingly and update your calendars.
+
+Happy Diwali!
+HR Team

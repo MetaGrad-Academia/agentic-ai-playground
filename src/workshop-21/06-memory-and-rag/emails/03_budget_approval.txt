@@ -1,0 +1,15 @@
+From: finance@example.com
+To: priya.raman@example.com
+Date: 2026-10-10
+Subject: Project Alpha budget approved
+
+Hello Priya,
+
+The finance committee has approved the Project Alpha budget of
+USD 120,000. This includes USD 80,000 for development,
+USD 25,000 for cloud infrastructure, and USD 15,000 for testing tools.
+
+Any spending beyond the approved amount needs a new approval request.
+
+Best regards,
+Finance Team
