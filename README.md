@@ -2,9 +2,32 @@
 
 ## Project Setup
 
-uv init --package --python 3.13 --vcs none .
+uv init --no-package --python 3.13 --vcs none .
 
-uv add langchain langchain-google-genai python-dotenv requests urllib3 black isort
+uv add langchain langchain-google-genai python-dotenv requests urllib3 black isort fastmcp
+
+## MCP server workshop
+
+Start the server from an MCP client using this command and stdio transport:
+
+```powershell
+uv run python src\workshop-21\08-mcp\server.py
+```
+
+The `generate_password` tool uses cryptographically secure randomness and accepts
+a length from 8 to 128 (default 16). The `get_time` tool returns the current UTC
+date and time in ISO 8601 format. Generated passwords are returned to the MCP
+client, so use a trusted client and avoid logging them.
+
+The included client starts the server automatically over stdio:
+
+```powershell
+uv run python src\workshop-21\08-mcp\client.py generate_password --length 20
+uv run python src\workshop-21\08-mcp\client.py get_time
+```
+
+Omit `--length` to use the default. Passwords are printed to the terminal;
+avoid redirecting them to logs or sharing terminal output.
 
 ## Hallucination workshop
 
